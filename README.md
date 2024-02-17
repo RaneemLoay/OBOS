@@ -1,9 +1,9 @@
 # Online Book order system
-an application for ordering books. The system will consist of two main subsystems: administration system and user system.
+An application for ordering books. The system will consist of two main subsystems: administration system and user system.
 The administration system provides: items administration, orders management, log of purchased books and support for statistics. 
 The user system is a web application system that permits the creation of book orders. Every time a book is ordered,
 the order appears in the administration system so that the administrator confirms the order.
-
+> Design patterns used : singlton, factory, strategy and facade.
 
 ## User functionalities:
 
@@ -27,9 +27,17 @@ the order appears in the administration system so that the administrator confirm
 - Every time a user made an order it should be appeared in the administration system so that the admin can confirm or cancel the order.
 - The admin can see some statistics and figures about the type of sold books.
 
+## Screenshots :
+![register](https://github.com/RaneemLoay/OBOS/assets/103434226/d27c7b67-b03a-487e-8d7c-3ab53be48eec)
+![cart](https://github.com/RaneemLoay/OBOS/assets/103434226/ada8f32f-f871-4626-ba3b-bc4e334cba2f)
+![checkout](https://github.com/RaneemLoay/OBOS/assets/103434226/48274b44-57cb-491c-82a3-77fe80aa0f65)
+![admin_dashboard](https://github.com/RaneemLoay/OBOS/assets/103434226/6da13f8b-12ee-43ae-9143-fe49cc02a8e4)
+![order-confirmation](https://github.com/RaneemLoay/OBOS/assets/103434226/59389a36-4031-4c9e-b032-7ed6967afb29)
+![stat](https://github.com/RaneemLoay/OBOS/assets/103434226/e9cfc0cf-b331-4e8b-a379-f9df2fac3229)
 
 
-### Team members :
+
+## Team members :
 - [Aya Osama](https://github.com/aya-mourad)
 - [Doaa Elkhani](https://github.com/)
 - [Raneem Sherif](https://github.com/Raneeml)
