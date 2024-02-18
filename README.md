@@ -4,6 +4,7 @@ The administration system provides: items administration, orders management, log
 The user system is a web application system that permits the creation of book orders. Every time a book is ordered,
 the order appears in the administration system so that the administrator confirms the order.
 > Design patterns used : singlton, factory, strategy and facade.
+> UI using Jframe
 
 ## User functionalities:
 
